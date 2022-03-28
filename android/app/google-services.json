@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034609530849",
+    "project_id": "messegeme-app",
+    "storage_bucket": "messegeme-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034609530849:android:b2d53c2b66969f437b24a0",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034609530849-p39inf4kvto6vob2b6goi4a33j639pu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAU0-qavLwUUZeYNKziIau6SuJ-0qc0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034609530849-p39inf4kvto6vob2b6goi4a33j639pu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
